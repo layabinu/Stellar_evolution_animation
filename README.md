@@ -5,6 +5,7 @@ Animation is reflective of the radius, separation, percieved color etc of the st
 Code is run using the run.sh file. 
 Before doing so, update the data file input path in the preprocess.py file, it is currently set to a default example file provided with the code. 
 in terminal run 
+
 chmod +x "_______/Final Animation/run.sh"
 where ______ should be replaced with your path up until that point
 
@@ -13,5 +14,8 @@ then you can run
 
 this is just an example, you have the options of log/linear or tulips/default
 and the animation will be created using pygame
+
+things required for this... still needs to be updated  but so far
+pip install numpy pygame pillow
 
 
