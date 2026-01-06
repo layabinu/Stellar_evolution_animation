@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/a4d82ccf-c9aa-4df6-a6fe-f84dd938bc64
+
+
 # Stellar_evolution_animation
 Creates a stellar evolution animation for binary systems simulated using COMPAS.
 Animation is reflective of the radius, separation, percieved color etc of the stars. 
