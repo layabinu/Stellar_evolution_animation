@@ -1,7 +1,8 @@
 
 
 
-https://github.com/user-attachments/assets/a4d82ccf-c9aa-4df6-a6fe-f84dd938bc64
+https://github.com/user-attachments/assets/8f76f637-60b7-4662-b88c-0e58c94f19c6
+Log Default
 
 
 # Stellar_evolution_animation
@@ -34,5 +35,10 @@ and the animation will be created using pygame
 things required for this... still needs to be updated  but so far
 
 pip install numpy pygame pillow
+
+
+
+https://github.com/user-attachments/assets/42940662-179b-461f-807a-38408b33354d
+Linear Tulips
 
 
